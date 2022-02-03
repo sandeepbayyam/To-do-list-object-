@@ -1,0 +1,30 @@
+h1,
+p {
+  font-family: Lato;
+}
+li {
+  list-style: none;
+}
+button {
+  background-color: black;
+  color: aqua;
+  font-weight: bold;
+}
+.success {
+  color: green;
+  font-weight: bold;
+  font-style: oblique;
+  font-size: large;
+}
+.pending {
+  color: red;
+  font-weight: bold;
+  font-style: oblique;
+  font-size: large;
+}
+.done {
+  display: inline-block;
+}
+.undo {
+  display: none;
+}
